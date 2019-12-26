@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/jendrikseipp/txt2tags.svg?branch=master)](https://travis-ci.org/jendrikseipp/txt2tags)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
+**Please note: the newest version of txt2tags 3.x lives at https://github.com/txt2tags/txt2tags/tree/v3.**
+
 # Txt2tags
 
 Txt2tags is a document generator. It reads a text file with
